@@ -1,0 +1,11 @@
+[package]
+name = "rust_numerical"
+version = "0.1.0"
+authors = ["Taro Morita <morita0079@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+peroxide = "0.30"
+
